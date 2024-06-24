@@ -9,20 +9,20 @@ This project demonstrates the implementation of fundamental ATM machine function
 💵Deposit Balance: Easy and immediate deposit processing with balance updates.                                        
 
 ### Features
-1. Password Check 🔐
-Functionality: Verifies the user’s password for secure access.
-Security: Incorporates error handling and security measures to protect user data.
+1) Password Check 🔐
+Functionality: Verifies the user’s password for secure access.              
+Security: Incorporates error handling and security measures to protect user data.           
 
-2. Check Balance 🏦
+2) Check Balance 🏦          
 Functionality: Displays the current account balance.
 Real-time: Provides up-to-date balance information.
 
-3. Withdraw Balance 💰
+3) Withdraw Balance 💰
 Functionality: Allows users to withdraw funds.
 Safety: Ensures users cannot withdraw more than their available balance, preventing overdrafts.
 User Experience: Includes prompts and confirmations.
 
-4. Deposit Balance 💵
+4) Deposit Balance 💵
 Functionality: Facilitates the addition of funds to the user’s account.
 Immediate Feedback: Updates the balance immediately after the deposit.
 
