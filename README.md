@@ -3,10 +3,10 @@
 ### Overview
 This project demonstrates the implementation of fundamental ATM machine functionalities using Python. The goal was to create a secure, user-friendly, and efficient system to manage typical banking operations. The project includes the following features:
 
-🔐Password Check: Secure user authentication to ensure only authorized access.
-🏦Check Balance: Real-time account balance retrieval.
-💰Withdraw Balance: Safe and secure funds withdrawal with overdraft prevention.
-💵Deposit Balance: Easy and immediate deposit processing with balance updates.
+🔐Password Check: Secure user authentication to ensure only authorized access.                                             
+🏦Check Balance: Real-time account balance retrieval.                                        
+💰Withdraw Balance: Safe and secure funds withdrawal with overdraft prevention.                                                                             
+💵Deposit Balance: Easy and immediate deposit processing with balance updates.                                        
 
 ### Features
 1. Password Check 🔐
@@ -43,5 +43,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 For any questions or collaboration opportunities, feel free to reach out via https://www.linkedin.com/in/sushmasarkar1 or email me at sushmasarkar2004@gmail.com .
+
 
 This README provides a comprehensive overview of the project, guiding users through its features, installation, and usage while also inviting contributions and collaboration.
