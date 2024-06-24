@@ -27,16 +27,18 @@ Functionality: Facilitates the addition of funds to the user’s account.
 Immediate Feedback: Updates the balance immediately after the deposit.
 
 ### Key Highlights
-Security: Robust password verification to ensure secure access.
-User-Friendly: Clear prompts and confirmations to guide users through transactions.
-Real-Time Updates: Immediate balance updates to reflect transactions.
+Security: Robust password verification to ensure secure access.                                               
+User-Friendly: Clear prompts and confirmations to guide users through transactions.                            
+Real-Time Updates: Immediate balance updates to reflect transactions.                               
 Error Handling: Prevents overdrafts and handles invalid inputs gracefully.
-Learning Outcomes
-Enhanced understanding of secure coding practices.
-Improved ability to handle financial transactions programmatically.
-Experience with error handling and user input validation.
-Contributions
-Contributions are welcome! Please fork this repository and submit pull requests for any features or improvements you have in mind.
+
+### Learning Outcomes
+Enhanced understanding of secure coding practices.                       
+Improved ability to handle financial transactions programmatically.                
+Experience with error handling and user input validation.                   
+
+### Contributions   
+Contributions are welcome! Please fork this repository and submit pull requests for any features or improvements you have in mind.            
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
